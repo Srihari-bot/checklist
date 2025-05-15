@@ -6,6 +6,6 @@ pandas
 python-dotenv
 aiohttp
 openpyxl
-ibm-cos-sdk
 tenacity
-six
+six==1.16.0
+ibm-cos-sdk==2.11.0
