@@ -8,3 +8,4 @@ aiohttp
 openpyxl
 ibm-cos-sdk
 tenacity
+six
