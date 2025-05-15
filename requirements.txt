@@ -9,3 +9,9 @@ openpyxl
 tenacity
 six==1.16.0
 ibm-cos-sdk==2.10.0
+streamlit>=1.24.0
+pandas>=1.5.0
+numpy>=1.22.0
+ibm-cos-sdk>=2.12.0
+six>=1.16.0
+python-dotenv>=1.0.0
